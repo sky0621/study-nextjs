@@ -25,6 +25,7 @@ npm install --save-dev typescript eslint eslint-config-next prettier @types/node
 ### storybook
 
 ```
+cd workspaces/shared
 npx storybook@latest init
 ```
 
