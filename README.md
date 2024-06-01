@@ -22,11 +22,17 @@ npm init -y -w workspaces/n1
 npm install --save-dev typescript eslint eslint-config-next prettier @types/node @types/react @types/react-dom @storybook/react @storybook/nextjs @storybook/testing-library
 ```
 
+### storybook
+
+```
+npx storybook@latest init
+```
+
 ## add package
 
 ### shared
 
 ```
-npm install -w workspaces/shared --save react react-dom next storybook clsx
+npm install -w workspaces/shared --save react react-dom next clsx
 ```
 
