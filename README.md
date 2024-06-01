@@ -37,3 +37,9 @@ npx storybook@latest init
 npm install -w workspaces/shared --save react react-dom next clsx
 ```
 
+### n1
+
+```
+npm install -w workspaces/n1 --save react react-dom next clsx
+```
+
